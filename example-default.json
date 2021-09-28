@@ -1,0 +1,21 @@
+{
+  "token": "",
+  "permissions": [
+    ""
+  ],
+  "bot_permission": "2146958847",
+  "command_prefix": ".",
+  "bot_status": "offline",
+  "verbose": 15,
+  "bomb_messages": {
+    "random": null,
+    "fixed": []
+  },
+  "webhook_spam": {
+    "usernames": [],
+    "pfp_urls": [],
+    "contents": []
+  },
+  "after": [],
+  "ban_whitelist": []
+}
